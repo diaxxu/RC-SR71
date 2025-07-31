@@ -8,7 +8,7 @@ This is a simple RC model of the SR-71 Blackbird made from foamboard. It's a fla
 
 - **Material**: 5mm foamboard  
 - **Aircraft type**: Delta wing, pusher jet  
-- **Style**: Inspired by the SR-71 Blackbird  
+- **Style**: SR-71 Blackbird  
 - **Control surfaces**: Elevons (combined elevator + aileron)  
 - **Motor position**: Rear center pusher  
 - **Build level**: Beginner 
