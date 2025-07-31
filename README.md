@@ -11,11 +11,10 @@ This is a simple RC model of the SR-71 Blackbird made from foamboard. It's a fla
 - **Style**: Inspired by the SR-71 Blackbird  
 - **Control surfaces**: Elevons (combined elevator + aileron)  
 - **Motor position**: Rear center pusher  
-- **Build level**: Beginner to intermediate  
-
+- **Build level**: Beginner 
 ## Parts Needed
 
-- **Motor**: 2205 or 2207 brushless motor  
+- **Motor**: 1307 or smaller brushless motor would work
 - **ESC**: 12A to 20A  
 - **Battery**: 2S LiPo (600–1000mAh)  
 - **Servos**: 2× 4g servos  
