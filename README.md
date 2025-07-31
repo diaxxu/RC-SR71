@@ -14,12 +14,12 @@ This is a simple RC model of the SR-71 Blackbird made from foamboard. It's a fla
 ## Parts Needed
 
 - **Motor**: 2205 or 2207 brushless motor  
-- **ESC**: 20A to 30A  
-- **Battery**: 3S LiPo (1000–1300mAh)  
-- **Servos**: 2× 9g servos  
+- **ESC**: 12A to 20A  
+- **Battery**: 2S LiPo (600–1000mAh)  
+- **Servos**: 2× 4g servos  
 - **Receiver**: Any 4+ channel RC receiver  
 - **Propeller**: 5 to 6 inch  
-- **Misc**: Hot glue, carbon rods or BBQ skewers, foamboard  
+- **Misc**: Hot glue, carbon rods , foamboard  
 
 ## Design Features
 
@@ -60,7 +60,7 @@ This is a simple RC model of the SR-71 Blackbird made from foamboard. It's a fla
 
 Top view of the airframe:
 
-![Top View](./c60a7366-2f17-409a-a876-899c235065ff.png)
+![Top View](/topview.png)
 
 ---
 
