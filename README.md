@@ -39,9 +39,9 @@ This is a simple RC model of the SR-71 Blackbird made from foamboard. It's a fla
 5. Install motor and ESC  
 6. Connect and center control horns  
 7. Attach vertical fins  
-8. Check CG (around 25–30% from wing leading edge)  
+8. Check CG (around 25–29% from wing leading edge)  
 9. Balance and test throws  
-10. Go fly  
+10. Go fly and have fun !! 
 
 ## Flight Tips
 
