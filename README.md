@@ -1,5 +1,5 @@
 # RC SR-71 Blackbird (Foamboard Build)
-
+![Top View](/topview.png)
 This is a simple RC model of the SR-71 Blackbird made from foamboard. It's a flat-plate design made for park flying and testing.
 
 ## Overview
